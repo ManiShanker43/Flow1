@@ -35,3 +35,6 @@
    - Call `addCars` to add a new car by providing the name,model and price.
    - Call `getcar` to retrieve a car by providing its name.
 3. Interact with the contract using your preferred Cadence-compatible blockchain development tools.
+## Output
+![image](https://github.com/ManiShanker43/Flow1/assets/130231291/5a8ad53c-a85d-41d7-86e4-4e017a265fc7)
+
